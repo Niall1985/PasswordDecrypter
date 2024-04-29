@@ -28,7 +28,7 @@ def crack_password(pdf_path, min_length, max_length, progress_interval=1):
     print("Password not found")
     return None
 
-pdf_path = "" #add ythe filepath of the file whose passwords you wish to decrypt
+pdf_path = "" #add the filepath of the file whose passwords you wish to decrypt
 min_length = 5 #specify your desired minimum password length
 max_length = 10 #specify your desired maximum password length range
 crack_password(pdf_path, min_length,max_length)
