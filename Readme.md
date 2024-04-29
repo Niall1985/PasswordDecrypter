@@ -11,7 +11,7 @@ Clone or download the repository to your local machine.
 Install the required libraries by running:
 
 ## Copy code
-pip install PyPDF2
+pip install PyPDF2 "\n"
 Itertools comes pre-installed
 
 ## Usage
