@@ -6,7 +6,7 @@ def generate_passwords(min_length=1, max_length=20):
     for length in range(min_length, max_length + 1):
         passwords = itertools.product(chars, repeat=length)
         yield from ("".join(password) for password in passwords)
-#the generate_passwords function generates passwords for testing suing capital and small letters, numbers and special characters
+#the generate_passwords function generates passwords for testing using capital and small letters, numbers and special characters
 
 def crack_password(pdf_path, min_length, max_length, progress_interval=10):
     pdf_reader = PyPDF2.PdfReader(open(pdf_path, "rb"))
