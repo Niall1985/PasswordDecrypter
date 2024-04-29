@@ -27,4 +27,4 @@ You can adjust the character set used for password generation by modifying the c
 The progress_interval variable in the crack_password function controls how often progress updates are printed. Adjust this value according to your preference.
 
 ## Disclaimer
-This script is provided for educational purposes only. Attempting to decrypt passwords without proper authorization may be illegal and unethical. Use this script responsibly and only on PDF files for which you have explicit permission to decrypt the passwords.
+This script is provided for educational purposes only. The Developer of this tool is not responsible for any type of activity done by you using this tool.  Attempting to decrypt passwords without proper authorization may be illegal and unethical. Use this script responsibly and only on PDF files for which you have explicit permission to decrypt the passwords.
