@@ -2,9 +2,9 @@
 This Python script is designed to decrypt passwords for PDF files using a brute-force approach. It generates potential passwords and attempts to decrypt the PDF file until the correct password is found or the specified password length range is exhausted.
 
 ## Prerequisites
-Python 3.x
-PyPDF2 library
-Itertools library
+1. Python 3.x
+2. PyPDF2 library
+3. Itertools library
 
 ## Installation
 Clone or download the repository to your local machine.
