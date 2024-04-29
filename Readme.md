@@ -11,8 +11,8 @@ Clone or download the repository to your local machine.
 Install the required libraries by running:
 
 ## Copy code
-pip install PyPDF2 \n
-Itertools comes pre-installed
+pip install PyPDF2.
+Itertools comes pre-installed.
 
 ## Usage
 Open the script (pdf_password_cracker.py) in your preferred text editor.
